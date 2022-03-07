@@ -11,7 +11,7 @@ The aim of this study was to determine whether someone is a high or low-risk cre
 - High Risk precision was 1% with a recall of 59%
 - Low Risk precision was 100% with a recall of 68%
 
-IMAGE 1
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_1.png)
 
 ### SMOTE Oversampling
 
@@ -19,7 +19,7 @@ IMAGE 1
 - High Risk precision was 1% with a recall of 61%
 - Low Risk precision was 100% with a recall of 64%
 
-IMAGE 2
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_2.png)
 
 ### Undersampling
 
@@ -27,7 +27,7 @@ IMAGE 2
 - High RIsk precision was 1% with a recall of 61%
 - Low Risk precision was 100% with a recall of 43%
 
-IMAGE 3
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_3.png)
 
 ### Combination (Over and Under) Sampling
 
@@ -35,7 +35,7 @@ IMAGE 3
 - High Risk precision was 1% with a recall of 71%
 - Low Risk precision was 100% with a recall of 54%
 
-IMAGE 4
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_4.png)
 
 ### Balanced Random Forest Classifier
 
@@ -43,7 +43,7 @@ IMAGE 4
 - High Risk precision was 4% with a recall of 67%
 - Low Risk precision was 100% with a recall of 91%
 
-IMAGE 5
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_5.png)
 
 ### Easy Ensemble AdaBoost Classifier
 
@@ -51,7 +51,7 @@ IMAGE 5
 - High Risk precision was 7% with a recall of 90%
 - Low Risk precision was 100% wtih a recall of 94%
 
-IMAGE 6
+![Results Image](https://github.com/damienfranco/Credit_Risk_Analysis/blob/main/IMAGES/CRA_Image_6.png)
 
 ## Summary
 
